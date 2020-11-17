@@ -7,7 +7,7 @@
 
 1. Clone the GIT repository:
 ```
- $ git clone https://github.com/LuoFuting/AMCW.git
+ $ git clone https://github.com/LDating/AMCW.git
 ```
 2. Clone the submodules.  
    In the repository directory, run the commands:
