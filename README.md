@@ -24,11 +24,4 @@
 ```
    |>> demo_AWCM.p
 ```   
-## Experimental results
 
-<div align="center">
-  <img src="https://github.com/LDating/AWCM/blob/master/results.png" width="1000px" />
-</div>
-
-#### GTOT：https://pan.baidu.com/s/1hB1QiVslKZ0WiZ2jBrlc2A  Extraction code: h1kg
-#### RGBT234：https://pan.baidu.com/s/1hmt1O6U9aCSLS9rasxFE_g Extraction code: jbug
